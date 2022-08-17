@@ -1,0 +1,14 @@
+NODE_ENV=development
+
+# Database configuration
+DB_HOST=localhost
+DB_PORT=5432
+DB_DATABASE=
+DB_USERNAME=
+DB_PASSWORD=
+DB_MIGRATIONS_RUN=true
+DB_LOGGING=false
+
+# JWT authentication
+JWT_TOKEN=
+JWT_EXPIRES_IN=1d
